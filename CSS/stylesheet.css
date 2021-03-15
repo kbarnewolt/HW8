@@ -21,10 +21,12 @@ main{
 }
 
 p{
-    padding: 5px;
+    padding: 0px;
 }
 
-nav {background-color: goldenrod;}
+nav {background-color: goldenrod;
+    padding: 5px;
+}
 
 a:link {text-decoration: none; color: black;}
 a:hover {text-decoration: underline; color: blue;}

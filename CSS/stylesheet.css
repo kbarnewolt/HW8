@@ -1,5 +1,5 @@
 
-body { background-color: #BD97E9;}
+body { background-color: goldenrod;}
 
 img { padding: 8px;
       border: 1px solid black;
@@ -24,7 +24,12 @@ p{
     padding: 5px;
 }
 
-nav {background-color: #BD97E9;}
+nav {background-color: goldenrod;}
 
 a:link {text-decoration: none; color: black;}
 a:hover {text-decoration: underline; color: blue;}
+
+table {
+    color:black;
+    background-color: lightgrey;
+}
